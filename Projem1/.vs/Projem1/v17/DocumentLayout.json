@@ -7,52 +7,12 @@
       "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\customerdemographic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\customerdemographic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|c:\\users\\pc_4176\\source\\repos\\projem1\\projem1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF1ED-90E1-4099-95E9-FA771374DF7E}|Projem1\\Projem1.csproj|solutionrelative:projem1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,127 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 935,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Region.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Region.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Region.cs",
-              "RelativeToolTip": "Projem1\\Models\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:30:45.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shipper.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Shipper.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Shipper.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Shipper.cs",
-              "RelativeToolTip": "Projem1\\Models\\Shipper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:30:44.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Supplier.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Supplier.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Supplier.cs",
-              "RelativeToolTip": "Projem1\\Models\\Supplier.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAcwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:30:42.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Territory.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Territory.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Territory.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Territory.cs",
-              "RelativeToolTip": "Projem1\\Models\\Territory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:30:42.278Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "Projem1\\Models\\OrderDetail.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:30:39.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Projem1\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Employee.cs",
               "RelativeToolTip": "Projem1\\Models\\Employee.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAxwDMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:28:57.781Z"
+              "WhenOpened": "2024-07-24T12:06:18.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerDemographic.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\CustomerDemographic.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\CustomerDemographic.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\CustomerDemographic.cs",
-              "RelativeToolTip": "Projem1\\Models\\CustomerDemographic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:28:56.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Customer.cs",
-              "RelativeToolTip": "Projem1\\Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:28:50.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Category.cs",
-              "RelativeToolTip": "Projem1\\Models\\Category.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:28:50.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "Projem1\\Models\\NorthwindContext.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\NorthwindContext.cs",
               "RelativeToolTip": "Projem1\\Models\\NorthwindContext.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAADwvysAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:28:26.955Z"
+              "WhenOpened": "2024-07-24T12:06:11.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -192,34 +58,10 @@
               "RelativeDocumentMoniker": "Projem1\\Program.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Program.cs",
               "RelativeToolTip": "Projem1\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDAAAAAtAAAA",
+              "ViewState": "AQIAANkAAAAAAAAAAAAiwOgAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T09:34:06.07Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Product.cs",
-              "RelativeToolTip": "Projem1\\Models\\Product.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:30:46.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Projem1\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\Projem1\\Projem1\\Models\\Order.cs",
-              "RelativeToolTip": "Projem1\\Models\\Order.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T08:30:50.693Z"
             }
           ]
         }
