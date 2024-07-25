@@ -28,7 +28,7 @@ class Program
         await Console.Out.WriteLineAsync("\n**********\n");
         await GunHesaplama(dbContext);
         await Console.Out.WriteLineAsync("\n**********\n");
-        await CalismaGunu(dbContext);      
+        await CalismaGunu(dbContext);
         await Console.Out.WriteLineAsync("\n**********\n");
         await KacSaatCalisti(dbContext);
         await Console.Out.WriteLineAsync("\n**********\n");
@@ -44,7 +44,7 @@ class Program
         var tumCalisanlar = await dbContext.Employees.ToListAsync();
 
         Random gen = new Random();
-        int range = 24 * 60; 
+        int range = 24 * 60;
 
         foreach (var item in tumCalisanlar)
         {
@@ -142,13 +142,13 @@ class Program
 
         foreach (var item in query)
         {
-            if(item.CalismaDakikasi >= 0)
+            if (item.CalismaDakikasi >= 0)
             {
                 Console.WriteLine($"{item.Name} isimli çalışma arkadaşımız bugün {item.CalismaDakikasi} dakika kadar çalışmış.");
             }
         }
     }
-   
+
     static async Task GunHesaplama(NorthwindContext dbContext)
     {
         string tarihStr = "2026-11-22 12:47:02.000";
@@ -185,18 +185,41 @@ class Program
                 Name = x.FirstName,
                 TotalWorkHours = x.EntranceTime.HasValue && x.ExitTime.HasValue
                     ? x.ExitTime.Value.ToTimeSpan().Subtract(x.EntranceTime.Value.ToTimeSpan()).TotalHours
-                    : (double?)null
-            })
-            .ToListAsync();
+                    : (double?)null,
+                TotalWorkMinutes = x.EntranceTime.HasValue && x.ExitTime.HasValue
+                    ? x.ExitTime.Value.ToTimeSpan().Subtract(x.EntranceTime.Value.ToTimeSpan()).TotalMinutes
+                    : (double?)null,
+                TotalWorkSeconds = x.EntranceTime.HasValue && x.ExitTime.HasValue ? x.ExitTime.Value.ToTimeSpan().Subtract(x.EntranceTime.Value.ToTimeSpan()).TotalSeconds : (double?)null
+            }).ToListAsync();
 
         foreach (var item in query)
         {
             if (item.TotalWorkHours.HasValue)
             {
-                Console.WriteLine($"{item.Name} isimli çalışma arkadaşımızın toplam çalışma süresi {item.TotalWorkHours:F2} saat.");
+                if (item.TotalWorkHours > 1)
+                {
+                    var hours = (int)item.TotalWorkHours.Value;
+                    var minutes = (int)((item.TotalWorkHours.Value - hours) * 60);
+                    var seconds = (int)((item.TotalWorkSeconds.Value - (hours * 3600 + minutes * 60)));
+                    if (seconds == 60)
+                    {
+                        minutes = minutes + 1;
+                        seconds = 0;
+                    }
+                    Console.WriteLine($"{item.Name} isimli çalışma arkadaşımızın toplam çalışma süresi {hours} saat {minutes} dakika {seconds} saniye.");
+                }
+                else
+                {
+                    Console.WriteLine($"{item.Name} isimli çalışma arkadaşımızın toplam çalışma süresi {item.TotalWorkMinutes} dakika.");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"{item.Name} isimli çalışma arkadaşımızın çalışma süresi bulunamadı.");
             }
         }
     }
+
 
     static async Task MesaiyeGecKalmaKontrolu(NorthwindContext dbContext)
     {
